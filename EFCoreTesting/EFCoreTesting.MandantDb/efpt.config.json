@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"MandantdbCoreDbContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"EFCoreTesting.MandantDb","SelectedToBeGenerated":0,"Tables":["dbo.tblBsInbox_Archiv"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}

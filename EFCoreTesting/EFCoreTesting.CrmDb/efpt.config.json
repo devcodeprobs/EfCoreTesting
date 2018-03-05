@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"CrmdbCoreDbContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"EFCoreTesting.CrmDb","SelectedToBeGenerated":0,"Tables":["dbo.tblMaBelegStatus"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}

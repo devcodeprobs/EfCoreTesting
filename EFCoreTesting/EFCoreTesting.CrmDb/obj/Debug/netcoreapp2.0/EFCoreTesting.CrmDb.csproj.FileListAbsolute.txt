@@ -1,0 +1,9 @@
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.deps.json
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.csprojResolveAssemblyReference.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.csproj.CoreCompileInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.AssemblyInfoInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.AssemblyInfo.cs
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.pdb
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.CrmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.CrmDb.pdb

@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"PcmdbCoreDbContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"","ProjectRootNamespace":"EFCoreTesting.PcmDb","SelectedToBeGenerated":0,"Tables":["dbo.tblLieferant_Dict"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}

@@ -1,0 +1,9 @@
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.deps.json
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.csprojResolveAssemblyReference.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.csproj.CoreCompileInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.AssemblyInfoInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.AssemblyInfo.cs
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\bin\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.pdb
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.PcmDb\obj\Debug\netcoreapp2.0\EFCoreTesting.PcmDb.pdb

@@ -1,0 +1,9 @@
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\bin\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.deps.json
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\bin\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.csprojResolveAssemblyReference.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.csproj.CoreCompileInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.AssemblyInfoInputs.cache
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.AssemblyInfo.cs
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\bin\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.pdb
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.dll
+C:\Users\Johnny.Kikambi\source\repos\EFCoreTesting\EFCoreTesting.MandantDb\obj\Debug\netcoreapp2.0\EFCoreTesting.MandantDb.pdb
